@@ -31,6 +31,7 @@
 </p>
 
   <br/>
+  <div align="center">
     <a  href="https://github.com/abayasaye/github-readme-stats"><img alt="abayasaye's Github Stats" src="https://github-readme-stats.vercel.app/api?username=abayasaye&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/abayasaye/github-readme-stats"><img alt="abayasaye's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abayasaye&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
@@ -45,7 +46,7 @@
 <br/>
 
 </p>
-
+</div>
 <!-- ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=abayasaye">

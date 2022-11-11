@@ -12,7 +12,6 @@
 - 📫  How to reach me **abay400@gmail.com**
  
 
-
 <h4 align="left">Linkedn page :https://www.linkedin.com/in/abayneh-asaye-625552235/</h4>
 <p align="left">
 </p>
